@@ -1,3 +1,7 @@
+## Description
+
+Practice unit testing and intergration testing with Jest, enzyme and moxios on simple comment application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
